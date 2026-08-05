@@ -5,7 +5,7 @@ Kukuku.. let us get straight to the point, this is a guide on how to ascend abov
   - [Test](#test)
   - [Test](#test)
 - [Test](#test)
-## Introfuction
+## Introduction
 
 ```mermaid
 graph TD
