@@ -48,6 +48,7 @@ Now,
 we will discover which one you are.
 
 Kukuku... let us begin.
+
 <img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/68b41657-43ae-42de-9228-b373485a0cf0" />
 
 ---
