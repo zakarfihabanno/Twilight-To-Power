@@ -60,8 +60,6 @@ By the end of this chapter, you should have:
 
 The quickest method is changing your environment, if you have all distractions nearby your brain will look for ways to escape, but how do we begin?
 
-#### Environment audit
-
 Before changing anything, list:
 
 | Area               | Main distraction | When it appears | Change to make |
@@ -76,7 +74,7 @@ After completing the table, choose only the three changes with the greatest expe
 
 ---
 
-###### Modify your devices
+### Modify your devices
 
 * To begin, I generally advise deleting TikTok and other short-form content apps, if you still need those apps to communicate with people, consider installing an app blocker or restricting their use to specific times, you must apply this new law into your mind: **Short-form content is the mind killer**: a [systematic review and meta-analysis of 71 studies involving 98,299 participants](https://pubmed.ncbi.nlm.nih.gov/41231585/) associated heavier short-form video use with worsened attention and inhibitory control, while a [controlled experiment on rapid context switching](https://arxiv.org/abs/2302.03714) found that watching short-form videos could impair the ability to remember and carry out intended actions as they quote, the same way you don't want to eat unhealthy food, you must not feed slop into your mind
 * Item 2
@@ -200,8 +198,6 @@ graph TD
 ```
 
 Tell yourself this whenever you feel stressed about something, because truth is not what you want it to be, it is what it is, and you must bend to its power, or live a lie. Being invested emotionally into a problem which cannot be solved is a waste of mental energy, and if you can do something about it, then work on solving it instead of complaining
-
-### Control analysis
 
 | Category       | Question                             |
 | -------------- | ------------------------------------ |
