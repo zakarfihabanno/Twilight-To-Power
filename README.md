@@ -213,7 +213,13 @@ Stuff I'll add in the future:
 
 ## Chapter 2 — Emotional control
 
-My, my.. here we go, the section everybody need, but let us get straight into it right away, here is a basic formula to dealing with your problems, these are the absolute basics:
+My, my.. emotional control, the ability almost everybody believes they possess, until they face real struggle, anybody can remain calm when everything goes according to plan, it's no diff
+
+But your control is revealed when you fail, lose something important, get rejected, feel insulted or face a problem you cannot immediately solve, when you have every reasons to go crazy
+
+But do not misunderstand since some of you always jump to conclusions, emotional control does not mean becoming emotionless, emotions are information: Fear warns you, anger reveals resistance, sadness marks loss and anxiety prepares you for uncertainty, the problem begins when you stop using your emotions and allow them to use you; think about it for a moment, the pain you feel is not part of you, it's your brain producing a feeling, it's neither good or bad, it just is
+
+But without getting lost into explanations, let us get straight into it right away, here is a basic formula to dealing with your problems, these are the absolute basics:
 
 ```mermaid
 graph TD
