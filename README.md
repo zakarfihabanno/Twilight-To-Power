@@ -230,6 +230,8 @@ graph TD
 
 Tell yourself this whenever you feel stressed about something, because truth is not what you want it to be, it is what it is, and you must bend to its power, or live a lie. Being invested emotionally into a problem which cannot be solved is a waste of mental energy, and if you can do something about it, then work on solving it instead of complaining
 
+---
+
 | Category       | Question                             |
 | -------------- | ------------------------------------ |
 | Facts          | What objectively happened?           |
@@ -237,6 +239,8 @@ Tell yourself this whenever you feel stressed about something, because truth is 
 | Control        | Which parts can I influence?         |
 | Action         | What can I do next?                  |
 | Acceptance     | What must remain outside my control? |
+
+---
 
 You not most react impulsively, you will respond with intention, ask yourself these emotions before going into an emotional rush, whenever you struggle emotively over something, imagine a friend is coming to you for advice, you shall do what you'd tell them to in that situation
 
