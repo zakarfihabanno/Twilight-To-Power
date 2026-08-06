@@ -49,7 +49,7 @@ we will discover which one you are.
 
 Kukuku... let us begin.
 
-<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/68b41657-43ae-42de-9228-b373485a0cf0" />
+<img width="1070" height="1600" alt="image" src="https://github.com/user-attachments/assets/3b9f36a5-3ac5-4002-b395-42da8e2292db" />
 
 ---
 
