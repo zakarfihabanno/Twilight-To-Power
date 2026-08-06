@@ -1,4 +1,4 @@
-# Twilight-To-Power
+# Twilight To Power
 
 Kukuku.. let us get straight to the point, this is a guide on how to ascend above the average for those whom are hungry for knowledge, however the topics we'll be teaching can transfer to different areas, so if you're interested in cognitive growth, knowledge and power, this guide will serve you good
 
@@ -24,15 +24,40 @@ Kukuku.. let us get straight to the point, this is a guide on how to ascend abov
 
 ## Introduction
 
-This guide has been written by Takaso and Loja (Komodo), but before we proceed to learning techniques, skills, etcetera, we must master our own mind first, which is why the beginning will be dedicated to topics such as metacognition, emotional control, and how to trick yourself into discipline, so now, let us begin
+Greetings.
+
+If you are here, then you likely already desire knowledge, intelligence and power; if you do not, quit the guide right now.
+
+Even if you are reading only out of curiosity, understand this clearly: This book was created for a selected few, those who possess the hunger and drive necessary to ascend beyond their current limitations.
+
+I am here to help you actualize your potential without wasting your time.
+
+You want to become better, yet desire alone has never been enough, you know that well.
+
+You may possess potential, but potential that is never actualized is worthless.
+
+Until your actions prove otherwise, your ambition is nothing more than imagination, which is why my job is to help you make your hidden potential into reality.
+
+This guide was written by Takaso and Loja, also known as Komodo, before we proceed to learning techniques, cognitive skills and the pursuit of knowledge, we must first master the mind responsible for using them, fufu..
+
+There is no value in possessing the perfect learning method if you cannot force yourself to practise it, don't you think? For this reason, the beginning of this guide will be dedicated to the foundations of ascension: discipline, metacognition, emotional control and the methods through which you can make your own mind obey you, it is time for you to take back what is yours, you will not live your slave as a slave to your laziness and impulses
+
+Most people desire power, it's easy to wish to become better, but only few are willing to actually take action in order to gain it and persist under such a path,
+
+Now,
+we will discover which one you are.
+
+Kukuku... let us begin.
 
 ---
 
 ## Disclaimer
 
-We are not professionals, so our information is the result of personal research, there is the possibility of low accuracy information, but most of the material presented is tested, you can open an issue to let us know what we got wrong
+We are not professionals, so our information is the result of personal research, there is the possibility of low accuracy information, but most of the material presented is personally tested, you can open an issue to let us know what we got wrong
 
-We will attempt to provide sources to the topics which will be mentioned ahead
+We will attempt to provide sources to the topics which will be mentioned ahead, some of the language is rethorical and not every things are to be taken literally, do not take the ideas presented to the extremes or it will result in burnout
+
+We have zero responsibility on the way you will be going to use the knowledge provided
 
 ---
 
