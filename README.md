@@ -242,5 +242,4 @@ Tell yourself this whenever you feel stressed about something, because truth is 
 
 ---
 
-You not most react impulsively, you will respond with intention, ask yourself these emotions before going into an emotional rush, whenever you struggle emotively over something, imagine a friend is coming to you for advice, you shall do what you'd tell them to in that situation
-
+Ask yourself these questions before reacting, you're teaching your brain to respond to a situation instead, whenever you struggle emotionally over something, imagine a friend is coming to you for advice, they're going through the same stress you are going right now, what to do is doing what you would tell them to in that hypotetical situation, that's how you know what to do next
