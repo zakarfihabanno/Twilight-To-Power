@@ -21,7 +21,9 @@ The quickest method is changing your environment, if you have all distractions n
     * Item 3a
     * Item 3b
 
-Stuff I'll add in the future:
+(Poi diciamo anche come avere un'altra persona a monitorarti è oscuro, ecc.)
+
+ - - - - - - - - - - - - - - - - Stuff I'll add in the future:
 
 ## Emotional control
 There is a basic formula to dealing with your problems, here is a graph to show it:
