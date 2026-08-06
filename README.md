@@ -48,7 +48,7 @@ Here we'll be breaking down every method to attain discipline, so with it you ca
 
 By the end of this chapter, you should have:
 
-* Removed or limited their main distractions
+* Removed or limited your main distractions
 * Created a dedicated training environment
 * Established a minimum daily commitment
 * Created a method for tracking your behaviour
