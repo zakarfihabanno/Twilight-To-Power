@@ -9,7 +9,17 @@ Kukuku.. let us get straight to the point, this is a guide on how to ascend abov
 This guide has been written by Takaso and Loja (Komodo), but before we proceed to learning techniques, skills, etcetera; we must master our own mind first, which is why the beginning will be decided to topics such as metacognition, emotional control, and how to trick yourself into discipline, so now, let us begin
 # Disclaimer
 We are not professionals, so our information is result of personal research, there is the possibility of accurate information, but most of the material presented is tested, you can open an issue to let us know what we got wrong 
-
+## Discipline
+Here we'll be breaking down every methods to attain discipline, so with it you can stay committed to your training without getting distracted
+# Create your environment
+The quickest method is changing your environment, if you have all distractions nearby your brain will look for ways to escape, but how do we begin?
+###### Modify your devices
+* To begin, I generally advise to delete TikTok, or any short form app, maybe installing a blocker, short form content is the mind killer (Here let's list academic proofs) + add more advice
+* Item 2
+* Item 2a
+* Item 2b
+    * Item 3a
+    * Item 3b
 
 Stuff I'll add in the future:
 
