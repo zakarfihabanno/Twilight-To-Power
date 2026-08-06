@@ -87,6 +87,8 @@ The quickest method is changing your environment, if you have all distractions n
 
 Before changing anything, list:
 
+---
+
 | Area               | Main distraction | When it appears | Change to make |
 | ------------------ | ---------------- | --------------- | -------------- |
 | Phone              |                  |                 |                |
@@ -94,6 +96,8 @@ Before changing anything, list:
 | Bedroom            |                  |                 |                |
 | Study area         |                  |                 |                |
 | Social environment |                  |                 |                |
+
+---
 
 After completing the table, choose only the three changes with the greatest expected impact, this is the lowest starting commitment I'm asking from you, if you're not ready to make sacrifices, then you can only dream of ascending above, you must go to places others aren't willing to explore, or else you will stay average, but if you're not willing to give up anything, then you should leave this guide in this instant, it is not for you, stay part of the herd
 
