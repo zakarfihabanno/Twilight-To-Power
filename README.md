@@ -117,7 +117,50 @@ After completing the table, choose only the three changes with the greatest expe
 
 ### External accountability
 
-(Poi diciamo anche come avere un'altra persona a monitorarti è oscuro, ecc.)
+One of the most powerful ways to get things done is to make yourself accountable to another person, you can choose a friend, partner or anybody you genuinely trust, tell them exactly what you intend to accomplish, then report your progress to them every day
+
+However do not merely tell them:
+
+> "today i studied"
+
+Your objective must be specific and verifiable, say something such as:
+
+> "Before 8:00 PM, I will complete 20 exercises and send you a picture of the results"
+
+A [meta-analysis of 138 studies involving 19,951 participants](https://pubmed.ncbi.nlm.nih.gov/26479070/) found that monitoring progress improved goal attainment, with stronger effects when progress was physically recorded or reported publicly
+
+In other words, noting your actions already helps, but knowing that another person will see the result can make the commitment harder to ignore, that's why you need somebody in your life that will make you feel guilty for being a lazy slug
+
+Procrastination often occurs because immediate relief, such as escaping a difficult task, feels more valuable than a distant reward, but again, having another person waiting for evidence makes the consequences of inaction feel more immediate
+
+This is also part of the reason why you may suddenly become capable of studying when an exam is only one day away, your discipline did not suddenly increase, the consequence that once felt distant has become immediate, so the task gains urgency and temporarily becomes harder to ignore
+
+However, relying on last-minute panic is inefficient if you want to truly rise above others, instead, create smaller deadlines before the final one and make another person verify whether you respected them or not
+
+---
+
+| Element | Example |
+|---|---|
+| Objective | Complete 20 exercises |
+| Deadline | Before 8:00 PM |
+| Evidence | Photograph of the completed work |
+| Monitor | A trusted friend |
+| Check-in | One message every evening |
+| Failure rule | Record the cause and apply the agreed consequence |
+
+---
+
+## Financial commitment
+
+You can make this system more powerful by placing something at risk, give a meaningful but financially safe amount of money to a trusted person before beginning the challenge, if you complete the agreed objective, the money is returned
+
+But if you fail without meeting one of the exceptions established beforehand, the money is lost, which is deserved because weak-minded people like you do not deserve the comfort of money
+
+This is known as a **commitment contract**, it allows your rational present self to create a consequence for the future version of you that may become lazy, distracted or unwilling to tolerate discomfort, research suggests that [commitment devices can improve behaviour in some situations](https://pmc.ncbi.nlm.nih.gov/articles/PMC4707874/), although they are not guaranteed to work for everybody
+
+Part of their power may come from **loss aversion**, the tendency for a possible loss to influence decisions strongly, when your own money is at risk, failure no longer produces only a distant or abstract consequence but creates an immediate cost that your brain is motivated to avoid
+
+Be careful not to get scammed though, fufu..
 
 ---
 
