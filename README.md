@@ -1,6 +1,6 @@
 # Twilight To Power
 
-Written by Takaso and Komodo, a guide on ascension
+Written by Takaso Fihabanno and Zakar Fihabanno, a guide on ascension
 
 ---
 
